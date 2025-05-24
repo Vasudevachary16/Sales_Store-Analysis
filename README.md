@@ -1,6 +1,8 @@
 # Sales_Store-Analysis
 🏬 Store Overview
-This project analyzes sales data from a retail store chain that records daily transactions, including product details, customer data, order status, and timing. The goal is to support better decision-making to enhance operations, customer experience, and profitability.
+- This project analyzes sales data from a retail store chain that records daily transactions, including product details, customer data, order status, and timing. The goal is to support better decision-making to enhance operations, customer experience, and profitability.
+
+- This business wants to optimize operations, improve customer experience, and increase profitability using data driven decisions
 
 ## ⚠️ Problem Statement
 - The business currently lacks clarity on:
