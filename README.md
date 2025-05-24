@@ -5,9 +5,9 @@ This project analyzes sales data from a retail store chain that records daily tr
 ## ⚠️ Problem Statement
 - The business currently lacks clarity on:
 - Which products are top sellers
-Customer preferences and buying behavior
-The most profitable items
-Issues in delivery or operational performance
+- Customer preferences and buying behavior
+- The most profitable items
+- Issues in delivery or operational performance
 As a result, the store is missing revenue opportunities, losing customer trust, and making uninformed business decisions.
 
 ## 💡 Proposed Solution
