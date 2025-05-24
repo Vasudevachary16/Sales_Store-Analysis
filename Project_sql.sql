@@ -1,4 +1,3 @@
-﻿USE Youtube_Channel;
 
 CREATE TABLE sales_store (
 transaction_id VARCHAR(15),
@@ -21,13 +20,15 @@ SELECT * FROM sales_store
 
 SET DATEFORMAT dmy
 BULK INSERT sales_store
-FROM 'C:\Users\0111r\OneDrive\Desktop\store\sales\sales_store\sales.csv'
+FROM 'C:\Users\vasud\OneDrive\Documents\SQL SALES PROJECT\sales.csv'
 	WITH (
 		FIRSTROW=2,
 		FIELDTERMINATOR=',',
 		ROWTERMINATOR='\n'
 	);
 	--YYYY-MM-DD
+
+
 --Data Cleaning
 
 SELECT * FROM sales_store
